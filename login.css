@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  background: url(backgroundimage1.jpg) no-repeat;
+  background: url(login.jpg) no-repeat;
   background-size: cover;
 }
 .login-box {
